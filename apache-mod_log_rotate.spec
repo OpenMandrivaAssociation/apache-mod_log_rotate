@@ -6,7 +6,7 @@
 Summary:	Automatic in-process rotation of transfer log
 Name:		apache-%{mod_name}
 Version:	1.00
-Release:	%mkrel 9
+Release:	%mkrel 10
 Group:		System/Servers
 License:	Apache License
 URL:		http://www.hexten.net/mod_log_rotate/
