@@ -9,7 +9,7 @@ Version:	1.00
 Release:	14
 Group:		System/Servers
 License:	Apache License
-URL:		http://www.hexten.net/mod_log_rotate/
+URL:		https://www.hexten.net/mod_log_rotate/
 Source0:	http://www.hexten.net/assets/apache2/mod_log_rotate.c
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
